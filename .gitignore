@@ -1,10 +1,12 @@
-.gradle
+.gradle/
 .allure
-build
+build/
 video
 out
 allure-results
 gradlew.batgradlew
 gradlew
-.idea
+.idea/
 /.idea/
+gradlew.bat
+gradle/
