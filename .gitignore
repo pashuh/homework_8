@@ -1,5 +1,3 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea
 .gradle
 .allure
 build
@@ -8,3 +6,5 @@ out
 allure-results
 gradlew.batgradlew
 gradlew
+.idea
+/.idea/
